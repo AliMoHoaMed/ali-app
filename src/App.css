@@ -1,3 +1,8 @@
+body{
+ background-color: #282c34;
+
+}
+
 .App {
   text-align: center;
 }
@@ -14,13 +19,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
+ 
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+ 
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  
   color: white;
 }
 
@@ -35,4 +39,100 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.c{
+  align-items: center;
+  text-align: center;
+}
+
+.v{
+
+  background-color: darkslategray;
+}
+
+.circle{
+border: 60px;
+border-radius: 200px;
+border-width: 15px;
+}
+
+.rr{
+  text-align: right;
+  width: fit-content;
+}
+.v2{
+background-color: rgb(28, 38, 82);
+
+padding: 20px;
+
+}
+
+.center {
+  margin: auto;
+  width: 23%;
+  border: 3px solid #ddddff;
+  padding: 10px;
+}
+
+.v3{
+
+  padding: 5px ;
+  margin: 5px;
+}
+
+.a1{
+background-color: #13357e;
+border: 3px solid #000085;
+border-radius: 20px;
+color: white;
+font-size: 20px;
+width: 15px;
+margin: 10px;
+padding: 8px;
+}
+
+.a2{
+  font-size: 20px;
+  color: white;
+}
+
+.a3{
+  font-size: 18px;
+  color: white;
+}
+
+.l{
+margin: 10px;
+  height: 2px;
+  background-color: #000000;
+  
+}
+
+.m{
+color: rgb(168, 168, 168);
+background-color: rgb(46, 45, 45);
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto ;
+  background-color: #0348811f;
+  padding: 10px;
+}
+.grid-item {
+ 
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.center2 {
+  margin: auto;
+  width: 80%;
+  border: 3px solid #ddddff;
+  padding: 10px;
 }
