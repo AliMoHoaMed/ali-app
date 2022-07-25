@@ -118,21 +118,24 @@ background-color: rgb(46, 45, 45);
 .grid-container {
   display: grid;
   grid-template-columns: auto auto ;
-  background-color: #0348811f;
+
   padding: 10px;
 }
 .grid-item {
- 
+ background-color: #49494934;
   border: 1px solid rgba(0, 0, 0, 0.8);
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  margin: 10px;
+  border-radius: 15px;
 }
 
 
 .center2 {
   margin: auto;
-  width: 80%;
-  border: 3px solid #ddddff;
-  padding: 10px;
+  width: auto;
+  
+  
+  padding: 5px;
 }

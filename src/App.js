@@ -94,23 +94,23 @@ by using MySQL workbench</a>
 <div className='center2'> 
 
 <div className='grid-container'>  
-<div className='grid-item c'>
+<div className='grid-item c' style={{width:'600px' ,hight:'800px'}}>
 <p style={{fontSize : '40px' , color:'white'}}> health care </p>
-  <img src='healthcare.png' style={{width:'600px' ,hight:'800px'}}/><a style={{color:'white'}} href='https://github.com/AliMoHoaMed/health-care-web'> go to project </a>
+  <img src='healthcare.png'  style={{width:'100%' ,hight:'100%'}}/><a style={{color:'white'}} href='https://github.com/AliMoHoaMed/health-care-web'> go to project </a>
   
    </div>
-   <div className='grid-item'>
+   <div className='grid-item' style={{width:'600px' ,hight:'800px'}}>
    <p style={{fontSize : '40px' , color:'white'}}> movies app </p>
-<img src='movies.png' style={{width:'600px' ,hight:'800px'}} />  <a style={{color:'white'}} href='https://github.com/AliMoHoaMed/anime-moviess-app'> go to project </a>
+<img src='movies.png'  style={{width:'100%' ,hight:'100%'}} />  <a style={{color:'white'}} href='https://github.com/AliMoHoaMed/anime-moviess-app'> go to project </a>
    </div>
-   <div className='grid-item'>
+   <div className='grid-item' style={{width:'600px' ,hight:'800px'}}>
    <p style={{fontSize : '40px' , color:'white'}}> Search app  </p>
-  <img src='stitch.png' style={{width:'600px' ,hight:'800px'}} />  <a style={{color:'white'}} href='https://github.com/AliMoHoaMed/search_resturant'> go to project </a>
+  <img src='stitch.png' style={{width:'100%' ,hight:'100%'}} />  <a style={{color:'white'}} href='https://github.com/AliMoHoaMed/search_resturant'> go to project </a>
    </div>
-   <div className='grid-item'>
+   <div className='grid-item' style={{width:'600px' ,hight:'800px'}}>
    <p style={{fontSize : '40px' , color:'white'}}> image processing app </p>
    
-<img src='alitool.png'  style={{width:'600px' ,hight:'800px'}}/><a style={{color:'white'}} href='https://github.com/AliMoHoaMed/image-processing-tools'> go to project </a>
+<img src='alitool.png'  style={{width:'100%' ,hight:'100%'}}/><a style={{color:'white'}} href='https://github.com/AliMoHoaMed/image-processing-tools'> go to project </a>
    </div>
 
 </div>
